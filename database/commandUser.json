@@ -1,0 +1,76 @@
+[
+  {
+    "jid": "6285654783538@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 11
+      },
+      {
+        "nama": "#dashboard",
+        "count": 1
+      },
+      {
+        "nama": "#public",
+        "count": 4
+      },
+      {
+        "nama": "#self",
+        "count": 3
+      },
+      {
+        "nama": "#lirik",
+        "count": 2
+      },
+      {
+        "nama": "#attp",
+        "count": 3
+      },
+      {
+        "nama": "#kick",
+        "count": 4
+      },
+      {
+        "nama": "#owner",
+        "count": 1
+      },
+      {
+        "nama": "#welcome",
+        "count": 3
+      },
+      {
+        "nama": "#add",
+        "count": 4
+      },
+      {
+        "nama": "#speed",
+        "count": 1
+      },
+      {
+        "nama": "#setwelcome",
+        "count": 1
+      },
+      {
+        "nama": "#join",
+        "count": 1
+      },
+      {
+        "nama": "#hidetag",
+        "count": 4
+      },
+      {
+        "nama": "#emojimix",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "jid": "6282396055503@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#owner",
+        "count": 1
+      }
+    ]
+  }
+]
